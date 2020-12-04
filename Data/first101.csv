@@ -1,0 +1,102 @@
+Sector,Industry,Currency,Market,MaxAge,Nber_of_analyst_opinions,MarketCap,Volatility,Recommendation_mean,Symbol,Name,Exchange,Country
+Technology,Consumer Electronics,USD,us_market,86400,38,2086460850176,1.354002,2,AAPL,Apple Inc.,NMS,USA
+Financial Services,Banks—Diversified,USD,us_market, ,25,248191172608,1.571589,2.4,BAC,Bank of America Corporation,NYQ,USA
+Consumer Cyclical,Internet Retail,USD,us_market,86400,46,1615678406656,1.298759,1.7,AMZN,"Amazon.com, Inc.",NMS,USA
+Communication Services,Telecom Services,USD,us_market,86400,27,205727629312,0.673618,2.8,T,AT&T Inc.,NYQ,USA
+Communication Services,Internet Content & Information,USD,us_market,86400,12,1214037491712,1.023111,1.6,GOOG,Alphabet Inc.,NMS,USA
+Consumer Defensive,Tobacco,USD,us_market,86400,14,75247427584,0.509582,2.1,MO,"Altria Group, Inc.",NYQ,USA
+Industrials,Airlines,USD,us_market,86400,20,25483849728,1.267192,2.3,DAL,"Delta Air Lines, Inc.",NYQ,USA
+Basic Materials,Aluminum,USD,us_market,86400,12,4058851840,2.268046,2.6,AA,Alcoa Corporation,NYQ,USA
+Financial Services,Credit Services,USD,us_market,86400,25,96567877632,1.215332,2.5,AXP,American Express Company,NYQ,USA
+Basic Materials,Chemicals,USD,us_market,86400,20,46621487104,1.341037,1.8,DD,E. I. du Pont de Nemours and Company,NYQ,USA
+Consumer Cyclical,Internet Retail,CNY,us_market,86400,47,731777662976,1.280157,1.6,BABA,Alibaba Group Holding Limited,NYQ,USA
+Healthcare,Medical Devices,USD,us_market,86400,17,192283328512,0.893461,1.9,ABT,Abbott Laboratories,NYQ,USA
+Consumer Cyclical,Apparel Manufacturing,USD,us_market, ,2,7133831168,1.042277,4,UA,"Under Armour, Inc.",NYQ,USA
+Technology,Semiconductor Equipment & Materials,USD,us_market,86400,25,76962357248,1.276775,2.1,AMAT,"Applied Materials, Inc.",NMS,USA
+Healthcare,Drug Manufacturers—General,USD,us_market,86400,24,131034603520,0.80947,2.4,AMGN,Amgen Inc.,NMS,USA
+Industrials,Airlines,USD,us_market,86400,18,8715745280,1.702367,3.5,AAL,American Airlines Group Inc.,NMS,USA
+Financial Services,Insurance—Diversified,USD,us_market,86400,15,33866588160,1.296505,2.4,AIG,"American International Group, Inc.",NYQ,USA
+Financial Services,Insurance—Property & Casualty,USD,us_market,86400,14,31711252480,0.735062,2.2,ALL,The Allstate Corporation,NYQ,USA
+Technology,Software—Infrastructure,USD,us_market,86400,23,229857361920, , ,ADBE,Adobe Systems Incorporated,NMS,USA
+Communication Services,Internet Content & Information,USD,us_market,86400,36,1216568229888,1.023111,1.8,GOOGL,Alphabet Inc.,NMS,USA
+Technology,Information Technology Services,USD,us_market, ,24,160056737792,1.05806,2.2,ACN,Accenture plc,NYQ,USA
+Healthcare,Drug Manufacturers—General,USD,us_market,86400,21,183679500288,0.68602,2,ABBV,AbbVie Inc.,NYQ,USA
+Basic Materials,Steel,USD,us_market,86400,7,20475918336,1.942405,1.7,MT,ArcelorMittal,NYQ,USA
+Healthcare,Drug Manufacturers—General,USD,us_market,86400,17,139240079360,0.267192,2.3,LLY,Eli Lilly and Company,NYQ,USA
+ , , ,us_market, , , , , ,AGN,Allergan plc,NYQ,USA
+Energy,Oil & Gas E&P,USD,us_market,86400,28,4669403136,4.837655,2.5,APA,Apache Corporation,NYQ,USA
+Industrials,Staffing & Employment Services,USD,us_market,86400,17,74900946944,0.702931,2.9,ADP,"Automatic Data Processing, Inc.",NMS,USA
+ , , ,us_market, , , , , ,APC,Anadarko Petroleum Corporation,NYQ,USA
+Technology,Software—Infrastructure,USD,us_market,86400,16,16964762624,0.466741,2.1,AKAM,"Akamai Technologies, Inc.",NMS,USA
+Real Estate,REIT—Mortgage,USD,us_market,86400,11,11269734400, ,2.2,NLY,"Annaly Capital Management, Inc.",NYQ,USA
+ , , ,us_market, , , , , ,ABX,Barrick Gold Corporation,NYQ,USA
+Communication Services,Electronic Gaming & Multimedia,USD,us_market,86400,32,61774462976,0.701803,2,ATVI,"Activision Blizzard, Inc.",NMS,USA
+Technology,Software—Application,USD,us_market,86400,21,61202960384,1.425591,2.1,ADSK,"Autodesk, Inc.",NMS,USA
+Consumer Defensive,Farm Products,USD,us_market,86400,12,27880652800,0.865839,1.7,ADM,Archer-Daniels-Midland Company,NYQ,USA
+Basic Materials,Building Materials, ,us_market,86400, ,28225272,0.292929, ,BMH.AX,Baumart Holdings Limited,ASX,Australia
+Healthcare,Pharmaceutical Retailers,USD,us_market,86400,18,33326897152,0.445321,3.1,WBA,"Walgreens Boots Alliance, Inc.",NMS,USA
+Healthcare,Biotechnology,USD,us_market,86400,14,3845222144,1.17531,1.6,ARNA,"Arena Pharmaceuticals, Inc.",NMS,USA
+Industrials,Airlines,USD,us_market,86400,20,27902205952,1.198421,2.2,LUV,Southwest Airlines Co.,NYQ,USA
+Healthcare,Biotechnology,USD,us_market,86400,18,9028361216,1.426719,1.6,ACAD,ACADIA Pharmaceuticals Inc.,NMS,USA
+Technology,Software—Infrastructure,USD,us_market,86400,32,28071262208,1.315107,1.8,PANW,"Palo Alto Networks, Inc.",NYQ,USA
+Technology,Semiconductors,USD,us_market,86400,33,111407022080,2.33089,2.3,AMD,"Advanced Micro Devices, Inc.",NCM,USA
+ , , ,us_market, , , , , ,AET,Aetna Inc.,NYQ,USA
+Utilities,Utilities—Regulated Electric,USD,us_market,86400,17,42297393152,0.292559,2.3,AEP,"American Electric Power Company, Inc.",NYQ,USA
+Healthcare,Biotechnology,USD,us_market,86400,20,26731915264,1.312288,2.3,ALXN,"Alexion Pharmaceuticals, Inc.",NMS,USA
+Technology,Semiconductors,USD,us_market,86400,28,163648962560,1.002818,1.9,AVGO,Broadcom Limited,NMS,USA
+Communication Services,Electronic Gaming & Multimedia,USD,us_market,86400,32,36881022976,0.927282,2.2,EA,Electronic Arts Inc.,NMS,USA
+Financial Services,Banks—Regional,EUR,us_market,86400,1,23774894080,1.490506, ,DB,Deutsche Bank Aktiengesellschaft,NYQ,USA
+Basic Materials, ,USD,us_market,86400,16,16721220608,0.877677,2.1,AEM,Agnico Eagle Mines Limited,NYQ,USA
+Basic Materials,Chemicals,USD,us_market,86400,21,62590427136,0.893461,2.3,APD,"Air Products and Chemicals, Inc.",NYQ,USA
+Technology,Semiconductor Equipment & Materials,USD,us_market,86400,14,2724491520,1.218151,2.3,AMBA,"Ambarella, Inc.",NMS,USA
+Healthcare,Drug Manufacturers—General,USD,us_market,86400,2,206654717952,0.429113,1,NVS,Novartis AG,NYQ,USA
+Consumer Cyclical,Apparel Retail,USD,us_market,86400,11,1260780544,1.574408,2.7,ANF,Abercrombie & Fitch Co.,NYQ,USA
+Consumer Cyclical,Apparel Retail,USD,us_market,86400,31,49195761664,1.233934,2.1,LULU,Lululemon Athletica Inc.,NMS,USA
+Healthcare,Pharmaceutical Retailers,USD,us_market,86400,4,720390656,0.589627,3.4,RAD,Rite Aid Corporation,NYQ,USA
+Energy,Oil & Gas E&P,AUD,us_market,86400,1,10800001,0.808227, ,BRK.AX,Brookside Energy Limited,ASX,Australia
+Technology,Solar,USD,us_market,86400,8,5155956224, ,2.8,ARRY,Array BioPharma Inc.,NGM,USA
+Real Estate,REIT—Mortgage,USD,us_market,86400,12,8363552768,0.967869,1.9,AGNC,AGNC Investment Corp.,NMS,USA
+Industrials,Airlines,USD,us_market,86400,16,4201703424,1.497181,2.8,JBLU,JetBlue Airways Corporation,NMS,USA
+Healthcare,Diagnostics & Research,USD,us_market,86400,15,35300159488,1.032694,2.2,A,"Agilent Technologies, Inc.",NYQ,USA
+Consumer Cyclical,Specialty Retail,USD,us_market,86400,18,32859695104,1.082299,2.1,ORLY,"O'Reilly Automotive, Inc.",NMS,USA
+Healthcare,Biotechnology,USD,us_market,86400,13,5897106432,1.502818,1.8,FOLD,"Amicus Therapeutics, Inc.",NGM,USA
+Consumer Cyclical,Specialty Retail,USD,us_market,86400,17,26995865600,0.917136,2.2,AZO,"AutoZone, Inc.",NYQ,USA
+Consumer Cyclical,Auto & Truck Dealerships,USD,us_market,86400,7,5711224832,1.640924,2.6,AN,"AutoNation, Inc.",NYQ,USA
+Healthcare,Drug Manufacturers—General,USD,us_market, ,3,136636481536,0.299367,1.6,AZN,AstraZeneca PLC,NYQ,USA
+Utilities,Utilities—Diversified,USD,us_market,86400,8,13701698560,0.883314,1.9,AES,The AES Corporation,NYQ,USA
+Consumer Defensive,Beverages—Brewers,USD,us_market,86400,8,134107832320,1.134177,2,BUD,Anheuser-Busch InBev SA/NV,NYQ,USA
+Real Estate,REIT—Mortgage,USD,us_market,86400,4,690023936,1.052423,2.5,ARR,"ARMOUR Residential REIT, Inc.",NYQ,USA
+Healthcare,Medical Instruments & Supplies,USD,us_market,86400,14,69215895552,0.844983,2.1,BDX,"Becton, Dickinson and Company",NYQ,USA
+ , , ,us_market, , , , , ,AKS,AK Steel Holding Corporation,NYQ,USA
+Financial Services,Asset Management,USD,us_market,86400,7,3135291904,1.587373,2.1,AB,AllianceBernstein Holding L.P.,NYQ,USA
+Healthcare,Biotechnology,USD,us_market,86400,4,31002894,0.935738,2.7,ACOR,"Acorda Therapeutics, Inc.",NMS,USA
+Financial Services,Banks—Diversified,CHF,us_market,86400,1,31776688128,1.635443,2,CS,Credit Suisse Group AG,NYQ,USA
+Financial Services,Insurance—Life,USD,us_market,86400,10,31399290880,0.806087,3.1,AFL,Aflac Incorporated,NYQ,USA
+Technology,Semiconductors,USD,us_market,86400,21,51997622272,1.295941,1.9,ADI,"Analog Devices, Inc.",NMS,USA
+Technology,Software—Infrastructure,USD,us_market,86400,7,3902185728,1.266065,1.7,ACIW,"ACI Worldwide, Inc.",NMS,USA
+Financial Services,Asset Management,USD,us_market, ,10,22445314048,1.775084,1.8,AMP,"Ameriprise Financial, Inc.",NYQ,USA
+ , , ,us_market, , , , , ,AVP,"Avon Products, Inc.",NYQ,USA
+ , ,USD,us_market, ,9, , , ,AMTD,TD Ameritrade Holding Corporation,NMS,USA
+Consumer Cyclical,Apparel Retail,USD,us_market,86400,16,2973440512,1.250845,2.2,AEO,"American Eagle Outfitters, Inc.",NYQ,USA
+Utilities,Utilities—Regulated Water,USD,us_market,86400,14,27970269184,0.199549,2.5,AWK,"American Water Works Company, Inc.",NYQ,USA
+Healthcare,Biotechnology,DKK,us_market,86400,2,157156524032,0.362658,3,NVO,Novo Nordisk A/S,NYQ,USA
+Industrials,Airlines,USD,us_market,86400,15,6299444224,1.642615,2.1,ALK,"Alaska Air Group, Inc.",NYQ,USA
+Energy,Oil & Gas Midstream,USD,us_market,86400,23,5900663808,2.136414,2,PAA,"Plains All American Pipeline, L.P.",NYQ,USA
+Consumer Cyclical,Specialty Retail,USD,us_market,86400,16,10355274752,1.394588,2.3,AAP,"Advance Auto Parts, Inc.",NYQ,USA
+Industrials,Marine Shipping,USD,us_market,86400,6,461175232,0.613303,2.3,NAT,Nordic American Tankers Limited,NYQ,USA
+Financial Services,Mortgage Finance,USD,us_market,86400,5,3157185536,2.178692,2.8,FNMA,Federal National Mortgage Association,PNK,USA
+Real Estate,REIT—Residential,USD,us_market,86400,10,4712898560,0.792559,2.7,AIV,Apartment Investment and Management Company,NYQ,USA
+Healthcare,Biotechnology,USD,us_market,86400,12,3223351040,1.836527,1.9,AGIO,"Agios Pharmaceuticals, Inc.",NMS,USA
+Utilities,Utilities—Regulated Electric,USD,us_market,86400,11,19408222208,0.281285,2.1,AEE,Ameren Corporation,NYQ,USA
+Financial Services,Banks—Diversified,USD,us_market,86400,1,51904348160,1.187974,1.5,UBS,UBS Group AG,NYQ,USA
+Healthcare,Biotechnology,USD,us_market,86400,5,315398720,0.91319,1.7,AVXL,Anavex Life Sciences Corp.,NCM,USA
+Energy,Thermal Coal,USD,us_market,86400,3,564745792,1.678128,2.3,ARLP,"Alliance Resource Partners, L.P.",NMS,USA
+Healthcare,Healthcare Plans,USD,us_market,86400,24,78068187136,0.966178,2,ANTM,"Anthem, Inc.",NYQ,USA
+ , , ,us_market, , , , , ,AGU,Agrium Inc.,NYQ,USA
+Basic Materials,Silver,USD,us_market,86400,3,2450270208,1.518942,2.3,AG,First Majestic Silver Corp.,NYQ,USA
+ , , ,us_market, , , , , ,AFSI,"AmTrust Financial Services, Inc.",NMS,USA
+Healthcare,Medical Distribution,USD,us_market,86400,16,20872308736,0.549605,2.4,ABC,AmerisourceBergen Corporation,NYQ,USA
+ , , ,us_market, , , , , ,STO,Statoil ASA,NYQ,USA
+Industrials,Metal Fabrication,USD,us_market,86400,7,1781764864,1.656144,3.2,ATI,Allegheny Technologies Incorporated,NYQ,USA
+Real Estate,REIT—Residential,USD,us_market,86400,18,23377524736,0.896279,2.7,AVB,"AvalonBay Communities, Inc.",NYQ,USA
+ , , ,us_market, , , , , ,ATW,"Atwood Oceanics, Inc.",NYQ,USA

@@ -1,0 +1,101 @@
+Name,Country,Sector,Industry,Currency,Market,Exchange,Nber_of_analyst_opinions,MarketCap,Volatility,Recommendation_mean
+"Avid Technology, Inc.",USA,Communication Services,Electronic Gaming & Multimedia,USD,us_market,NMS,4,525192224,1.096956,2.4
+"Ascena Retail Group, Inc.",USA, , , ,us_market,NMS, , , , 
+"On Assignment, Inc.",USA,Industrials,Staffing & Employment Services,USD,us_market,NYQ,7,4167461888,2.27452,2.1
+"Ardelyx, Inc.",USA,Healthcare,Biotechnology,USD,us_market,NGM,5,553223296,2,1.3
+Accuray Incorporated,USA,Healthcare,Medical Devices,USD,us_market,NMS, ,386087744,1.794813,1.5
+"Aquinox Pharmaceuticals, Inc.",USA, , , ,us_market,NGM, , , , 
+"Alpha Pro Tech, Ltd.",USA,Industrials,Building Products & Equipment,USD,us_market,ASE,1,171080288,-1.16629,1
+"Applied DNA Sciences, Inc.",USA,Industrials,Security & Protection Services,USD,us_market,NCM,2,39208400,1.582299,2
+"Ambac Financial Group, Inc.",USA,Financial Services,Insurance—Specialty,USD,us_market,NMS,1,735694144,1.380496,3
+Allegiant Travel Company,USA,Industrials,Airlines,USD,us_market,NMS,12,2828663808,1.604847,1.8
+"Alon USA Partners, LP",USA, , , ,us_market,NYQ, , , , 
+"Applied Industrial Technologies, Inc.",USA,Industrials,Industrial Distribution,USD,us_market,NYQ,4,3012039680,1.363021,2
+Altra Industrial Motion Corp.,USA,Industrials,Specialty Industrial Machinery,USD,us_market,NMS,6,3731409152,2.559188,1.7
+American Equity Investment Life Holding Company,USA,Financial Services,Insurance—Life,USD,us_market,NYQ,8,2482618624,1.571025,2.7
+Aehr Test Systems,USA,Technology,Semiconductor Equipment & Materials,USD,us_market,NCM, ,38928200,1.001691, 
+Alcobra Ltd.,USA, , , ,us_market,NGM, , , , 
+"Acura Pharmaceuticals, Inc.",USA,Healthcare,Drug Manufacturers—Specialty & Generic,USD,us_market,PNK, ,6495090,0.912626, 
+"Acadia Healthcare Company, Inc.",USA,Healthcare,Medical Care Facilities,USD,us_market,NMS,13,3735850496,1.434047,2.1
+Atlantic Coast Financial Corporation,USA, , , ,us_market,NGM, , , , 
+ACCO Brands Corporation,USA,Industrials,Business Equipment & Supplies,USD,us_market,NYQ,6, ,2.07779,1.8
+Atlantica Yield plc,USA, , , ,us_market,NMS, , , , 
+TravelCenters of America LLC,USA,Consumer Cyclical,Specialty Retail,USD,us_market,NMS,4,472172384,1.921645,1.2
+"Retail Properties of America, Inc.",USA,Real Estate,REIT—Retail,USD,us_market,NYQ,8,1812580352,1.3354,2.6
+"Manhattan Associates, Inc.",USA,Technology,Software—Application,USD,us_market,NMS,5,6584511488,1.970124,2.1
+Lamar Advertising Company,USA,Real Estate,REIT—Specialty,USD,us_market,NMS,5,8067840000,1.343855,2.8
+"Aoxing Pharmaceutical Company, Inc.",USA, , , ,us_market,ASE, , , , 
+Astronics Corporation,USA,Industrials,Aerospace & Defense,USD,us_market,NMS,3,369790496,1.61443,2.2
+"ATN International, Inc.",USA,Communication Services,Telecom Services,USD,us_market,NMS,4,759630336,0.258737,1.5
+"ARC Group Worldwide, Inc.",USA,Industrials,Metal Fabrication,USD,us_market,NCM,1,9923664, , 
+"American Public Education, Inc.",USA,Consumer Defensive,Education & Training Services,USD,us_market,NMS,3,461454656,0.847801,1.7
+Ampco-Pittsburgh Corporation,USA,Industrials, ,USD,us_market,NYQ, ,75077968,1.240698, 
+"Anika Therapeutics, Inc.",USA,Healthcare,Biotechnology,USD,us_market,NMS,1,531906560,1.042277,2
+"AngioDynamics, Inc.",USA,Healthcare,Medical Instruments & Supplies,USD,us_market,NMS,2,525650464,0.598647,2.3
+Allied Motion Technologies Inc.,USA,Technology,Electronic Components,USD,us_market,NGM,3,397723424,1.82018,1.7
+Antero Midstream Partners LP,USA,Energy,Oil & Gas Midstream,USD,us_market,NYQ,12,3198247680,3.377797,3
+"Autoliv, Inc.",USA,Consumer Cyclical,Auto Parts,USD,us_market,NYQ,18,7911904256,1.864712,2.6
+Analogic Corporation,USA, , , ,us_market,NMS, , , , 
+Acadia Realty Trust,USA,Real Estate,REIT—Retail,USD,us_market,NYQ,6,1246573952,1.028748,2.6
+Aegion Corporation,USA,Industrials,Engineering & Construction,USD,us_market,NMS,3,534832992,1.195603,3
+Adidas AG,Germany,Consumer Cyclical,Footwear & Accessories,EUR,us_market,GER,35,52795432960,0.851898,2.5
+World Acceptance Corporation,USA,Financial Services,Credit Services,USD,us_market,NMS,4,793753536,1.668545,4
+AMERCO,USA,Industrials,Rental & Leasing Services,USD,us_market,NMS,1,8264687616,0.762683,2
+United States Antimony Corporation,USA,Basic Materials,Other Industrial Metals & Mining,USD,us_market,ASE,1,29531144,1.012965, 
+"Sonic Automotive, Inc.",USA,Consumer Cyclical,Auto & Truck Dealerships,USD,us_market,NYQ,7,1768623104,2.775648,2.1
+"Natural Alternatives International, Inc.",USA,Consumer Defensive,Packaged Foods,USD,us_market,NGM, ,63655836,0.667418, 
+Credit Acceptance Corporation,USA,Financial Services,Credit Services,USD,us_market,NMS,6,5684871680,1.281285,3.3
+"Air Transport Services Group, Inc.",USA,Industrials,Integrated Freight & Logistics,USD,us_market,NMS,7,1761474432,0.692784,1.6
+Associated Banc-Corp,USA,Financial Services,Banks—Regional,USD,us_market,NYQ,9,2420578560,1.214205,3
+Arotech Corporation,USA, , , ,us_market,NGM, , , , 
+Arrow Financial Corporation,USA,Financial Services,Banks—Regional,USD,us_market,NMS,1,464742016,0.62514, 
+ArcBest Corporation,USA,Industrials,Trucking,USD,us_market,NMS,10,1090507008,1.666854,1.9
+"A-Mark Precious Metals, Inc.",USA,Financial Services,Capital Markets,USD,us_market,NMS,2,210078768,-0.471815,1.5
+"Alarm.Com Holdings, Inc.",USA,Technology,Software—Application,USD,us_market,NMS,7,3595005696,0.940811,2.1
+"Ashford Hospitality Prime, Inc.",USA, , , ,us_market,NYQ, , , , 
+"Agile Therapeutics, Inc.",USA,Healthcare,Drug Manufacturers—Specialty & Generic,USD,us_market,NGM,4,240445152,1.440811,1.6
+"Almost Family, Inc.",USA, , , ,us_market,NMS, , , , 
+"AdCare Health Systems, Inc.",USA, , , ,us_market,ASE, , , , 
+Autobytel Inc.,USA, , , ,us_market,NCM, , , , 
+"Cambium Learning Group, Inc.",USA, , , ,us_market,NCM, , , , 
+"Applied Optoelectronics, Inc.",USA,Technology,Semiconductors,USD,us_market,NGM,8,187256016,2.063697,2.9
+Universal Stainless & Alloy Products Inc,USA,Basic Materials,Steel,USD,us_market,NMS,1,61896408,1.620631,2.5
+State Auto Financial Corporation,USA,Financial Services,Insurance—Property & Casualty,USD,us_market,NMS,3,688253440,-0.01071,2.6
+"Extended Stay America, Inc.",USA,Consumer Cyclical,Lodging,USD,us_market,NYQ,11,2469873408,1.901916,2
+Origin Agritech Limited,USA,Basic Materials,Agricultural Inputs,CNY,us_market,NMS, ,47912044,0.993235, 
+"Reinsurance Group of America, Incorporated",USA,Financial Services,Insurance—Reinsurance,USD,us_market,NYQ,9,8227850240,1.150507,2.6
+"Industrial Services of America, Inc.",USA, , , ,us_market,NCM, , , , 
+China Eastern Airlines Corporation Limited,USA,Industrials,Airlines,CNY,us_market,NYQ,1,11215251456,0.852644,3
+"Craft Brew Alliance, Inc.",USA, , , ,us_market,NMS, , , , 
+AMREP Corporation,USA,Real Estate,Real Estate Services,USD,us_market,NYQ, ,44526088,0.732807, 
+American Vanguard Corporation,USA,Basic Materials,Agricultural Inputs,USD,us_market,NYQ,2,465217536,0.978015,2
+AudioCodes Ltd.,USA,Technology,Communication Equipment,USD,us_market,NMS,6,924745664,0.705749,1.8
+Atrion Corporation,USA,Healthcare,Medical Instruments & Supplies,USD,us_market,NMS, ,1113830528,0.162908, 
+Atossa Genetics Inc.,USA,Healthcare,Biotechnology,USD,us_market,NCM,2,17313120,2.589627,2
+"ARC Document Solutions, Inc.",USA,Industrials,Specialty Business Services,USD,us_market,NYQ,1,64478612,1.586809, 
+Alpha and Omega Semiconductor Limited,USA,Technology,Semiconductors,USD,us_market,NMS,3,638714240,2.297632,3
+"Alliance One International, Inc.",USA, , , ,us_market,NYQ, , , , 
+American Woodmark Corporation,USA,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USD,us_market,NMS,4,1514612736,2.433483,2.4
+Ally Financial Inc.,USA,Financial Services,Credit Services,USD,us_market,NYQ,16,11604520960,1.61443,1.7
+Air Industries Group,USA,Industrials,Aerospace & Defense,USD,us_market,ASE,1,41566036,1.251972,2
+Arch Capital Group Ltd.,USA,Financial Services,Insurance—Diversified,USD,us_market,NMS,10,13407011840,0.803269,2.2
+"Acorn Energy, Inc.",USA,Technology,Scientific & Technical Instruments,USD,us_market,PNK,1,13473941,1.591882, 
+"Arbor Realty Trust, Inc.",USA,Real Estate,REIT—Mortgage,USD,us_market,NYQ,5,1676938112,1.916572,2
+Ameris Bancorp,USA,Financial Services,Banks—Regional,USD,us_market,NMS,7,2420354048,1.434047,1.6
+"FreightCar America, Inc.",USA,Industrials,Railroads,USD,us_market,NMS,2,38992348,1.786922,3
+"AG Mortgage Investment Trust, Inc.",USA,Real Estate, ,USD,us_market,NYQ,3,132345848,1.672491,4.3
+"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",USA,Real Estate,REIT—Specialty,USD,us_market,NYQ,10,4086935296,1.678692,2
+GOL Linhas AÃ©reas Inteligentes S.A.,USA,Industrials,Airlines,BRL,us_market,NYQ,9,1675609344,2.070109,2.2
+Gildan Activewear Inc.,USA,Consumer Cyclical,Apparel Manufacturing,USD,us_market,NYQ,12,5279940608,1.61115,2.2
+Atento S.A.,USA,Industrials,Specialty Business Services,USD,us_market,NYQ,3,146721376,1.599774,2.5
+"AptarGroup, Inc.",USA,Consumer Cyclical,Packaging & Containers,USD,us_market,NYQ,7,8272829952,0.582299,2.1
+"Actinium Pharmaceuticals, Inc.",USA, ,Biotechnology,USD,us_market,ASE,4,139533360,1.177001,1.8
+Astrotech Corporation,USA,Industrials,Aerospace & Defense,USD,us_market,NCM, ,33775196,-0.817361, 
+"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",USA,Industrials,Airports & Air Services,MXN,us_market,NYQ,8,4660656640, ,2.7
+Ardmore Shipping Corporation,USA,Industrials,Marine Shipping,USD,us_market,NYQ,7,107511520,1.083427,2.2
+Artesian Resources Corporation,USA,Utilities,Utilities—Regulated Water,USD,us_market,NMS, ,350126176,-0.034949,2
+"Aduro BioTech, Inc.",USA, , , ,us_market,NMS, , , , 
+ACNB Corporation,USA,Financial Services,Banks—Regional,USD,us_market,NCM, ,221934400,-0.05186, 
+Advantage Oil & Gas Ltd.,USA, , , ,us_market,NYQ, , , , 
+"American Assets Trust, Inc.",USA,Real Estate,REIT—Diversified,USD,us_market,NYQ,4,1753026688,0.979143,2.8
+China Southern Airlines Company Limited,USA,Industrials,Airlines,CNY,us_market,NYQ,1,13601156096,1.8, 

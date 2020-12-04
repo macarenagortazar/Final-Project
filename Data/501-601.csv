@@ -1,0 +1,101 @@
+Name,Country,Sector,Industry,Currency,Market,Exchange,Nber_of_analyst_opinions,MarketCap,Volatility,Recommendation_mean
+Authentidate Holding Corp.,USA, , , ,us_market,PNK, , , , 
+Adaptimmune Therapeutics plc,USA,Healthcare,Biotechnology,USD,us_market,NMS,6,735200256,2.478015,2.4
+Acme United Corporation,USA,Consumer Defensive,Household & Personal Products,USD,us_market,ASE,1,112087208,1.021984,1
+WestJet Airlines Ltd.,Canada, , , ,us_market,TOR, , , , 
+Turkcell Iletisim Hizmetleri A.S.,USA,Communication Services,Telecom Services,TRY,us_market,NYQ,3,4230724864,0.777917,2.3
+"U.S. Auto Parts Network, Inc.",USA,Consumer Cyclical,Internet Retail,USD,us_market,NMS,4,726568768,2.777339,2
+"Pope Resources, A Delaware Limited Partnership",USA, , , ,us_market,NCM, , , , 
+"Adams Natural Resources Fund, Inc.",USA,Financial Services,Asset Management,USD,us_market,NYQ, ,328753536,1.614994, 
+North Atlantic Drilling Ltd.,USA, , , ,us_market,NYQ, , , , 
+"General American Investors Company, Inc.",USA,Financial Services,Asset Management,USD,us_market,NYQ, ,897291648,1.095828, 
+Double Eagle Acquisition Corp.,USA, , , ,us_market,NCM, , , , 
+"Delta Apparel, Inc.",USA,Consumer Cyclical,Apparel Manufacturing,USD,us_market,ASE,1,148137584,1.661217,2
+"Brooks Automation, Inc.",USA,Technology,Semiconductor Equipment & Materials,USD,us_market,NMS,7,5419992576,1.705749,2
+"Auburn National Bancorporation, Inc.",USA,Financial Services,Banks—Regional,USD,us_market,NGM, ,150853648,0.622322, 
+"Amtech Systems, Inc.",USA,Technology,Semiconductor Equipment & Materials,USD,us_market,NMS,2,91832696,1.555806, 
+ASA Gold and Precious Metals Limited,USA,Financial Services,Asset Management,USD,us_market,NYQ, ,401229920,0.901916, 
+"Amphastar Pharmaceuticals, Inc.",USA,Healthcare,Drug Manufacturers—Specialty & Generic,USD,us_market,NMS,5,852221760,1.032694,2.4
+"Aldeyra Therapeutics, Inc.",USA,Healthcare,Biotechnology,USD,us_market,NCM,9,260484208,2.042841,1.5
+"ADDvantage Technologies Group, Inc.",USA,Technology,Electronics & Computer Distribution,USD,us_market,NGM,1,36781368,0.066516, 
+Arbutus Biopharma Corporation,USA,Healthcare,Biotechnology,USD,us_market,NMS,5,338788096,3.033821,2
+Ablynx NV,Belgium, , , ,us_market,BRU, , , , 
+Atlantic Alliance Partnership Corp.,USA, , , ,us_market,NCM, , , , 
+"Sears Hometown and Outlet Stores, Inc.",USA, , , ,us_market,NCM, , , , 
+Rayonier Advanced Materials Inc.,USA,Basic Materials, ,USD,us_market,NYQ,4,459884704,3.453213,2
+Phibro Animal Health Corporation,USA,Healthcare,Drug Manufacturers—Specialty & Generic,USD,us_market,NGM,4,741109952,0.369222,3.2
+Forward Air Corporation,USA,Industrials,Integrated Freight & Logistics,USD,us_market,NMS,4,2016046720,1.133032,2.5
+Daimler AG,Germany,Consumer Cyclical,Auto Manufacturers,EUR,us_market,GER,29,61074882560,1.629746, 
+China Auto Logistics Inc.,USA,Consumer Cyclical,Auto & Truck Dealerships,USD,us_market,NCM, ,48,7.66629, 
+Axovant Sciences Ltd.,USA, , , ,us_market,NYQ, , , , 
+"AxoGen, Inc.",USA,Healthcare,Medical Devices,USD,us_market,NCM,6,591060352,0.642615,1.9
+Golden Minerals Company,USA,Basic Materials,Other Precious Metals & Mining,USD,us_market,ASE,3,90665376, ,2
+"AmeriServ Financial, Inc.",USA,Financial Services,Banks—Regional,USD,us_market,NGM,1,56293380,0.828072, 
+"ASB Bancorp, Inc.",USA, , , ,us_market,NGM, , , , 
+"Art's-Way Manufacturing Co., Inc.",USA,Industrials,Farm & Heavy Construction Machinery,USD,us_market,NCM, ,10680373,0.342728, 
+Asia Pacific Wire & Cable Corporation Limited,USA,Industrials,Electrical Equipment & Parts,USD,us_market,NGM, ,28468582,0.683765, 
+Artisan Partners Asset Management Inc.,USA,Financial Services,Asset Management,USD,us_market,NYQ,6,3613669120,1.973506,2.1
+American Shared Hospital Services,USA,Healthcare,Medical Care Facilities,USD,us_market,ASE, ,11118730,1.229988,2
+AMB Financial Corp.,USA,Financial Services,Banks—Regional,USD,us_market,OBB, ,4122872,0.152198, 
+American Lorain Corporation,USA, , , ,us_market,ASE, , , , 
+"AgroFresh Solutions, Inc.",USA,Consumer Defensive,Farm Products,USD,us_market,NMS,3,131045848,1.130214,2.5
+"Aethlon Medical, Inc.",USA,Healthcare,Medical Devices,USD,us_market,NCM,1,20791876,0.307215,2
+Altisource Asset Management Corporation,USA,Financial Services,Asset Management, ,us_market,ASE, ,37954832,0.753664, 
+Unico American Corporation,USA, ,Insurance—Property & Casualty,USD,us_market,NGM, ,25995040,-0.038331, 
+Harrison Vickers and Waterman Inc.,USA,Consumer Defensive,Beverages—Brewers, ,us_market,PNK, ,115434,57.744644, 
+"Motorcar Parts of America, Inc.",USA,Consumer Cyclical,Auto Parts,USD,us_market,NMS,3,397575616,1.725479,2.5
+"J. Alexander's Holdings, Inc.",USA,Consumer Cyclical,Restaurants,USD,us_market,NYQ, ,103531584,1.369785, 
+Auris Medical Holding AG,USA,Healthcare,Biotechnology,CHF,us_market,NGM,1,37078136,0.366403, 
+"AXT, Inc.",USA,Technology,Semiconductor Equipment & Materials,USD,us_market,NMS,4,394828032,1.954904,2.2
+Attunity Ltd.,USA, , , ,us_market,NCM, , , , 
+Ames National Corporation,USA,Financial Services,Banks—Regional,USD,us_market,NCM, ,200974192,0.639797, 
+"Astec Industries, Inc.",USA,Industrials,Farm & Heavy Construction Machinery,USD,us_market,NMS,2,1319026560,1.348928,2.3
+Ascendis Pharma A/S,USA,Healthcare,Biotechnology,EUR,us_market,NMS, ,9007022080,0.867531,1.5
+"American Realty Investors, Inc.",USA,Real Estate,Real Estate—Development,USD,us_market,NYQ, ,161090800,1.125704, 
+"Aemetis, Inc.",USA,Energy,Oil & Gas Refining & Marketing,USD,us_market,NGM,1,46031124,0.527057,2
+"Air Liquide, société anonyme",France,Basic Materials,Chemicals, ,us_market,PAR,18,64123187200,0.62405, 
+Affimed N.V.,USA,Healthcare,Biotechnology,EUR,us_market,NGM,5,468127808,2.430101,1.6
+"Affymax, Inc.",USA,Healthcare,Biotechnology,USD,us_market,PNK, ,2844072,2.80947, 
+Compañía de Transporte de Energía Eléctrica en Alta Tensión Transener S.A.,Argentina,Utilities,Utilities—Regulated Electric,ARS,us_market,BUE,4,13918295040,1.640218, 
+Inca Minerals Limited,Australia,Basic Materials,Other Industrial Metals & Mining, ,us_market,ASX, ,12311254,1.513291, 
+"Arcadia Biosciences, Inc.",USA,Basic Materials,Agricultural Inputs,USD,us_market,NCM,3,36179548,-0.626832,1.5
+Infinity Property and Casualty Corporation,USA, , , ,us_market,NMS, , , , 
+Fortress Transportation and Infrastructure Investors LLC,USA,Industrials,Rental & Leasing Services,USD,us_market,NYQ,11,1862172032,1.878804,1.5
+"Alanco Technologies, Inc.",USA,Industrials,Waste Management,USD,us_market,PNK,1,74736,1.994926, 
+Embotelladora Andina S.A.,USA,Consumer Defensive,Beverages—Non-Alcoholic,CLP,us_market,NYQ, ,1893144064,0.387909, 
+Great Ajax Corp,USA,Real Estate,REIT—Mortgage,USD,us_market,NYQ,4,228961920,1.611612,2.2
+"Atlas Financial Holdings, Inc.",USA, , , ,us_market,NGM, , , , 
+"The American Energy Group, Ltd.",USA,Energy,Oil & Gas E&P, ,us_market,PNK, ,1366181,1.203494, 
+Celsius Resources Limited,Australia,Basic Materials,Other Industrial Metals & Mining,AUD,us_market,ASX,1,36670244,-1.006962, 
+Panhandle Oil and Gas Inc.,USA,Energy,Oil & Gas E&P,USD,us_market,NYQ,1,38385412,1.085682,1
+Gluskin Sheff + Associates Inc.,Canada, , , ,us_market,TOR, , , , 
+Dynasil Corporation of America,USA,Technology,Scientific & Technical Instruments,USD,us_market,NCM, ,15753044,0.206313, 
+"Global Brass and Copper Holdings, Inc.",USA, , , ,us_market,NYQ, , , , 
+Boulevard Acquisition Corp. II,USA, , , ,us_market,NCM, , , , 
+Atlantic Power Corporation,Canada,Utilities,Utilities—Independent Power Producers,USD,us_market,TOR,4,237332128,0.367405,2.7
+"Astika Holdings, Inc.",USA,Financial Services,Shell Companies, ,us_market,PNK, ,875777,-0.170236, 
+"Altex Industries, Inc.",USA,Energy,Oil & Gas E&P,USD,us_market,PNK, ,884660,0.351183, 
+AltaGas Ltd.,Canada,Utilities,Utilities—Regulated Gas,CAD,us_market,TOR,15,5158554112,1.591136,1.9
+Asanko Gold Inc.,Canada, , , ,us_market,TOR, , , , 
+"Aimmune Therapeutics, Inc.",USA, , ,USD,us_market,NMS,9,2257373952, ,2.8
+"Applied Energetics, Inc.",USA,Industrials,Aerospace & Defense,USD,us_market,PNK,1,60021988,3.007891, 
+Accelerize Inc.,USA, , , ,us_market,OBB, , , , 
+Barrick Gold Corporation,Canada,Basic Materials,Gold,USD,us_market,TOR,16,54873096192,0.268763, 
+Vealls Limited,Australia, , , ,us_market,ASX, , , , 
+"Saker Aviation Services, Inc.",USA,Industrials,Airports & Air Services,USD,us_market,PNK, ,2654458,0.944193, 
+Petrobras Argentina S.A.,USA, , , ,us_market,NYQ, , , , 
+Origin Energy Limited,Australia,Energy,Oil & Gas Integrated,AUD,us_market,ASX,10,8964558848,1.625316, 
+"Nord Anglia Education, Inc.",USA, , , ,us_market,NYQ, , , , 
+Moog Inc.,USA,Industrials,Aerospace & Defense,USD,us_market,NYQ,4,2498584576,1.492108,2.7
+AXA SA,France,Financial Services,Insurance—Diversified,EUR,us_market,PAR,22,47166279680,1.361392, 
+Barington/Hilco Acquisition Corp.,USA, , , ,us_market,NCM, , , , 
+Bombardier Inc.,Canada,Industrials,Aerospace & Defense, ,us_market,TOR, ,1305682432,2.345961, 
+Brookfield Asset Management Inc.,Canada,Financial Services,Asset Management,USD,us_market,TOR,4,79180619776,1.105789, 
+Avalon Advanced Materials Inc.,Canada,Basic Materials,Other Industrial Metals & Mining,CAD,us_market,TOR, ,40067496,1.639027, 
+Athabasca Oil Corporation,Canada,Energy,Oil & Gas E&P,CAD,us_market,TOR,5,76947872,2.315225,3.5
+Aquila Resources Inc.,Canada,Basic Materials,Other Industrial Metals & Mining,USD,us_market,TOR,2,40626720,1.184417,2
+Australia and New Zealand Banking Group Limited,Australia,Financial Services,Banks—Diversified,AUD,us_market,ASX,13,64842575872,0.877848, 
+Amanasu Techno Holdings Corporation,USA,Financial Services,Shell Companies, ,us_market,PNK, ,704343,1.82018, 
+"Alternet Systems, Inc.",USA,Technology,Information Technology Services,USD,us_market,PNK, ,673124,2.496617, 
+Alstom SA,France,Industrials,Specialty Industrial Machinery,EUR,us_market,PAR,12,11169431552,0.786708, 
+"Alliance Bioenergy Plus, Inc.",USA,Basic Materials,Specialty Chemicals, ,us_market,PNK, ,16658752,4.316234, 

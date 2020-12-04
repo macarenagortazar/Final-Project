@@ -1,0 +1,32 @@
+Name,Country,Sector,Industry,Currency,Market,Exchange,Nber_of_analyst_opinions,MarketCap,Volatility,Recommendation_mean,Ticker
+Microsoft Corporation,United States,Technology,Software—Infrastructure,USD,us_market,NMS,31,1628304834560,0.823097,1.7,MSFT
+Apple Inc.,United States,Technology,Consumer Electronics,USD,us_market,NMS,38,2092581519360,1.354002,2,AAPL
+"Advanced Micro Devices, Inc.", ,Technology,Semiconductors,USD,us_market,NMS,33,112742031360,2.267191,2.3,AMD
+Walt Disney Company (The), ,Communication Services,Entertainment,USD,us_market,NYQ,24,278107848704,1.075535,2,DIS
+"Invesco QQQ Trust, Series 1", , , , ,us_market,NMS, ,119443439616, , ,QQQ
+Visa Inc.,United States,Financial Services,Credit Services,USD,us_market,NYQ,34,462631370752,0.916572,1.8,V
+Boeing Company (The),United States,Industrials,Aerospace & Defense,USD,us_market,NYQ,22,126370037760,1.392333,2.7,BA
+"Tesla, Inc.", ,Consumer Cyclical,Auto Manufacturers,USD,us_market,NMS,29,539185053696,1.966741,2.7,TSLA
+"Amazon.com, Inc.",United States,Consumer Cyclical,Internet Retail,USD,us_market,NMS,46,1607374471168,1.201049,1.7,AMZN
+Vanguard S&P 500 ETF, , , , ,us_market,PCX, , , , ,VOO
+"Facebook, Inc.",United States,Communication Services,Internet Content & Information,USD,us_market,NMS,47,818940346368,1.193175,1.8,FB
+Raytheon Technologies Corporati,United States,Industrials,Aerospace & Defense,USD,us_market,NYQ,17,109256720384,0.794813,2.1,RTX
+DraftKings Inc.,United States,Consumer Cyclical,Gambling,USD,us_market,NMS,22,20016584704, ,2.2,DKNG
+Coca-Cola Company (The),United States,Consumer Defensive,Beverages—Non-Alcoholic,USD,us_market,NYQ,20,223939084288,0.566929,2,KO
+NVIDIA Corporation,United States,Technology,Semiconductors,USD,us_market,NMS,34,335361835008,1.591882,2.1,NVDA
+AT&T Inc.,United States,Communication Services,Telecom Services,USD,us_market,NYQ,27,207295348736,0.672965,2.8,T
+"Square, Inc.", ,Technology,Software—Infrastructure,USD,us_market,NYQ,39,91089272832,2.679255,2.4,SQ
+Alibaba Group Holding Limited,China,Consumer Cyclical,Internet Retail,CNY,us_market,NYQ,47,712530853888,1.034645,1.6,BABA
+JP Morgan Chase & Co.,United States,Financial Services,Banks—Diversified,USD,us_market,NYQ,25,372002324480,1.142051,2.3,JPM
+"Delta Air Lines, Inc.",United States,Industrials,Airlines,USD,us_market,NYQ,20,26191736832,1.267192,2.3,DAL
+Carnival Corporation,United States,Consumer Cyclical,Travel Services,USD,us_market,NYQ,13,23360851968,2.23517,2.9,CCL
+MGM Resorts International,United States,Consumer Cyclical,Resorts & Casinos,USD,us_market,NYQ,17,14497110016,2.413648,2.9,MGM
+NIO Inc.,China,Consumer Cyclical,Auto Manufacturers,CNY,us_market,NYQ,15,65357393920,2.876094,2.3,NIO
+Vanguard Total Stock Market ETF, , , , ,us_market,PCX, ,392410038272, , ,VTI
+"Cloudflare, Inc.",United States,Technology,Software—Infrastructure,USD,us_market,NYQ,16,22094942208, ,1.9,NET
+Sea Limited,Singapore,Communication Services,Electronic Gaming & Multimedia,USD,us_market,NYQ,16,89685262336,1.358585,2,SE
+Exxon Mobil Corporation,United States,Energy,Oil & Gas Integrated,USD,us_market,NYQ,22,168875491328,1.285794,3,XOM
+Mastercard Incorporated,United States,Financial Services,Credit Services,USD,us_market,NYQ,35,339173834752,1.157835,1.9,MA
+Berkshire Hathaway Inc. New,United States,Financial Services,Insurance—Diversified,USD,us_market,NYQ,2,540433973248,0.868766,2.2,BRK-B
+Vanguard Information Tech ETF, , , , ,us_market,PCX, , , , ,VGT
+Walmart Inc.,United States,Consumer Defensive,Discount Stores,USD,us_market,NYQ,32,426536075264,0.395715,1.9,WMT
